@@ -280,5 +280,5 @@ def update_speed(speed, last_time):
     return speed, last_time
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
